@@ -1,5 +1,5 @@
 # had
-terminal snake for my little son.:)
+for fun 
 
 build: 
 require ncurses
@@ -8,6 +8,3 @@ build command: g++ had.cpp -o had -std=c++11 -lncurses
 
 run: ./had height width window_xbeg window_ybeg<br>
 eg : ./had 20 30 20 20
-
-notes:
-There is no checks for bounds and similar. It was quick action. :) New version will bring better code and adventure mode. (Yeah, still in terminal. :D )
